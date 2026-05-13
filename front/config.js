@@ -1,1 +1,1 @@
-const API_URL = "https://TU-BACKEND.onrender.com";
+const API_URL = "https://bar-0w6g.onrender.com";
